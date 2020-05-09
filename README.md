@@ -1,6 +1,4 @@
 # Object-oriented-Design-Diagram
-msu cse335 assignment: class diagram, object diagram
-
 
 You have again been hired by the Medieval Faire. They have tournaments and you have to create a system to track the tournament results. Each tournament takes place on a given date and time. A tournament pits knights againt each other in events. One event is Cabbaging. In Cabbaging, a cabbage is placed on a pole. Each knight gallops at the cabbage with a sword, trying to cut a piece off of the top of the cabbage. The knight who cuts the smallest piece wins. Another event is Jousting. In Jousting, two knights ride towards each other with lances, trying to hit the shield of their opponent with the lance. A score is assigned to each knight based on these criteria:
 Lance is shattered - 3 points
